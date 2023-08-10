@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "9e7446d5-45da-462b-868c-c4a7de01ede6",
+		"name": "Isabel Tata",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "27684425"
+	},
+	"item": [
+		{
+			"name": "Crear usario singup",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Intentar crear un usuario ya existente",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "usuario y pass correcto",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "usuario y pass Incorrecto",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
